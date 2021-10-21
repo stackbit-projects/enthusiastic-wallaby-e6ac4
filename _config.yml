@@ -42,4 +42,4 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-theme: jekyll-theme-cayman
+remote_theme: jekyll-theme-cayman
