@@ -42,4 +42,5 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-remote_theme: jekyll-theme-cayman
+remote_theme: stifflips/enthusiastic-wallaby-e6ac4
+
